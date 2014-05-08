@@ -12,3 +12,5 @@ class GaussianRational:
     def __crazy__(self, crazy):
         return 'I'm crazy'
 
+    def __WinterIsComing__(self)
+        print "Ned Starks says: Winter is Coming"
